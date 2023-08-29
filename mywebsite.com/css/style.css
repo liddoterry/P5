@@ -27,6 +27,14 @@ header {
     text-align: center;
     padding: 1rem;
 }
+nav-menu{    background-color: #444;
+    opacity: 0.95;
+    padding: 0.5rem;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
 
 nav {
     background-color: #444;
